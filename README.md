@@ -15,7 +15,7 @@ Welcome to the repository hosting my academic research on quantum computing appl
 
 ### 2. Quantum-Inspired Hybrid Neural Networks for Neural Decoding: A Controlled Ablation Study of Learnable Quantum Sidecar Integration
 * **Authors:** Diana Levy, Menachem Finkelstein, Peter Chin, Eilon Vaadia, and Sarel Cohen[cite: 2].
-* **Status:** Accepted to Workshop 
+* **Status:** Accepted to Workshop IJCAECAI 
 * **Summary:** This research investigates the integration of parameterized quantum circuits (PQCs) as residual sidecar modules within a classical ResNet-50 backbone[cite: 2]. The model is applied to a 31-class neural population decoding task for imagined handwriting[cite: 2]. 
 * **Key Findings:** Through a nine-variant ablation study, the research shows that backbone-gradient training consistently reorganizes representation geometry and reveals a latent star-topology preference[cite: 2]. The study also identifies that the representational capacity of a 4-qubit circuit acts as the primary bottleneck for further accuracy gains[cite: 2].
 * **File:** `Quantum-Inspired Hybrid Neural Networks for Neural Decoding_ A Controlled Ablation Study of Learnable Quantum Sidecar Integration.pdf`
